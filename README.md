@@ -3,19 +3,19 @@
 ![image](/assets/Chatprofit_Dashboard.png)
 
 ## Contributors
+- [Diseph Dum-Igoni](https://github.com/disephD)
 - [Damilare Adefowope](https://github.com/EmmanetD)
 - [Blessedsarah Omolola](https://github.com/Blessedsarah)
-- [Diseph Dum-Igoni](https://github.com/disephD)
 
 ## Table of Contents
-1. Project Overview
-2. Features
-3. Structure of the Repo
-4. Technologies Used
-5. Data Cleaning and Transformation
-6. Data Analysis
-7. Key Insights
-8. Conclusion
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Structure of the Repo](#structure-of-the-repo)
+4. [Technologies Used](#Technologies-Used)
+5. [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+6. [Data Analysis](#data-analysis)
+7. [Key Insights](#key-insights)
+8. [Conclusion](#conclusion)
 
 ## Project Overview
 ChatProfit is a startup platform designed to bridge the gap between WhatsApp group owners and advertisers interested in promoting products to niche audiences. The platform aims to empower group owners to monetize their communities while providing advertisers with access to highly engaged, targeted groups aligned with their products or services.
